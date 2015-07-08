@@ -1,6 +1,15 @@
-# Crear_Ficheros
-English
-This project is a guide by generate files with java
+Crear_Ficheros
+===
+Desarrollado:
+Director:
+SeJEJO - https://twitter.com/SeJEJO
 
-Español
+Descripción:
 Este proyecto es una guía de generar archivos con java
+
+Developer:
+Manager:
+SeJEJO - https://twitter.com/SeJEJO
+
+Description:
+This project is a guide by generate files with java
